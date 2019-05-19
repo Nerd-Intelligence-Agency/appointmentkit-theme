@@ -19,9 +19,3 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
   __FILE__,
   'appointmentkit-theme'
 );
-
-//Optional: If you're using a private repository, specify the access token like this:
-//$myUpdateChecker->setAuthentication('your-token-here');
-
-//Optional: Set the branch that contains the stable release.
-$myUpdateChecker->setBranch('master');

@@ -2,8 +2,8 @@
 Contributors: (Nerd Intelligence Agency)
 Tags: divi supported
 Requires at least: 5.0
-Tested up to: 5.0
-Stable tag: 1.0.0
+Tested up to: 5.1
+Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,10 +20,11 @@ An answer to that question.
 
 == Changelog ==
 
-= 1.0 =
+= 0.0.1 =
 * Initial Release
-= 1.0.1 =
-* Push Release
+
+== Upgrade Notice ==
 
 == Resources ==
-Ideakit main theme
+* magnify.jpg © 2014 Jane Doe, CC0
+* supermenu.js © 2013-2015 James Today, MIT

@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Short description. No more than 150 chars.
 
 == Description ==
-The IdeaKit main theme
+The AppointmentKit main theme
 
 == Frequently Asked Questions ==
 
@@ -22,7 +22,8 @@ An answer to that question.
 
 = 1.0 =
 * Initial Release
+= 1.0.1 =
+* Push Release
 
 == Resources ==
-* magnify.jpg © 2014 Jane Doe, CC0
-* supermenu.js © 2013-2015 James Today, MIT
+Ideakit main theme

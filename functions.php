@@ -17,7 +17,7 @@ require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
   'https://github.com/Nerd-Intelligence-Agency/AppointmentKit-Theme',
   __FILE__,
-  'AppointmentKit-Theme'
+  'appointmentkit-theme'
 );
 
 //Optional: If you're using a private repository, specify the access token like this:

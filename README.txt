@@ -20,7 +20,9 @@ An answer to that question.
 
 == Changelog ==
 
-= 0.0.1 =
+= 1.0.1 =
+* Remove updater
+= 1.0.0 =
 * Initial Release
 
 == Upgrade Notice ==
